@@ -1,0 +1,8 @@
+name: FriendlyServer
+version: '${project.version}'
+main: studio.thevipershow.friendlyserver.FriendlyServer
+authors: [ TheViperShow ]
+description: Makes your server friendly
+commands:
+  friend:
+    description: Used to friend people
